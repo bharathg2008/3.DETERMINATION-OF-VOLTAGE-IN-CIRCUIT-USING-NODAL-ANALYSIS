@@ -21,6 +21,24 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 **Circuit diagram**
 
 
+
+![WhatsApp Image ](https://github.com/user-attachments/assets/194906e3-7456-4bc4-8388-2211d1d124e9)
+## Tabulation:
+
+
+![WhatsApp Image 2025-10-15 at 13 44 05_4b682a7](https://github.com/user-attachments/assets/89acf47f-86a5-4f9c-a8f0-736efdfbdcf0)
+
+
+## calculation:
+
+
+
+![WhatsApp Image 2025-10-16 at 18 49 26_b624c2c0](https://github.com/user-attachments/assets/f29ca091-8514-482b-840a-effcc4db8786)
+
+
+
+
+
  
 **PROCEDURE:**
 
@@ -35,6 +53,15 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+
+## marks splitup:
+
+![nlasjljlas](https://github.com/user-attachments/assets/87b7b4b4-9c6f-4ea5-9447-fa97463e2300)
+
+
+
+
+
 
 **RESULT:**
 
